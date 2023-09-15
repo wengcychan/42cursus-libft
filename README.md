@@ -1,9 +1,9 @@
-<center>
-<h1 style="display: inline-block; border-bottom: none; margin-right: 20px;">42cursus - Libft</h1>
-<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/wengcychan/42cursus-libft?style=plastic&color=blue&label=C%20language&logo=42" />
-</center>
+<h1 align="center">42cursus - Libft</h1>
 
-<div style="border-bottom: 2px solid grey; margin-bottom: 20px;"></div>
+<p align="center">
+	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/wengcychan/42cursus-libft?style=plastic&color=blue&label=C%20language&logo=42"/>
+	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/wengcychan/42cursus-libft?style=plastic&color=green&logo=42"/>
+</p>
 
 Libft is a project designed to create and utilize a custom C library known as `libft`.
 
