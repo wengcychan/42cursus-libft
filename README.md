@@ -100,7 +100,7 @@ To use the `libft` library in C projects, follow these steps:
 4. Compile your C program with the `libft.a` library:
 
    ```bash
-	gcc myprogram.c -L. -lft
+	cc myprogram.c -L. -lft
 	```
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Replace `myprogram.c` with your source code file.
