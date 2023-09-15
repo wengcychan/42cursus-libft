@@ -1,4 +1,9 @@
-# Libft
+<center>
+<h1 style="display: inline-block; border-bottom: none; margin-right: 20px;">42cursus - Libft</h1>
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/wengcychan/42cursus-libft?style=plastic&color=blue&label=C%20language&logo=42" />
+</center>
+
+<div style="border-bottom: 2px solid grey; margin-bottom: 20px;"></div>
 
 Libft is a project designed to create and utilize a custom C library known as `libft`.
 
@@ -74,13 +79,13 @@ To use the `libft` library in C projects, follow these steps:
 
    ```bash
    git clone https://github.com/wengcychan/42cursus-libft.git
-
+	```
 
 2. Compile the library for Part 1 and Part 2:
 
    ```bash
 	make
-
+	```
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This will generate a library file named `libft.a`.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Additionally, running `make bonus` will add the functions from the bonus part to the `libft.a` library.
@@ -90,11 +95,12 @@ To use the `libft` library in C projects, follow these steps:
 
 	```c
 	#include "libft.h"
-
+	```
 
 4. Compile your C program with the `libft.a` library:
 
    ```bash
 	gcc myprogram.c -L. -lft
+	```
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Replace `myprogram.c` with your source code file.
