@@ -73,25 +73,31 @@ To use the `libft` library in C projects, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/libft.git
+   git clone https://github.com/wengcychan/42cursus-libft.git
+
+<br>
 
 2. Compile the library for Part 1 and Part 2:
 
    ```bash
 	make
 
-This will generate a library file named `libft.a`.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This will generate a library file named `libft.a`.
 
-Additionally, running `make bonus` will add the functions from the bonus part to the `libft.a` library.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Additionally, running `make bonus` will add the functions from the bonus part to the `libft.a` library.
+
+<br>
 
 3. In your C projects, include the header file `libft.h`:
 
 	```c
 	#include "libft.h"
 
+<br>
+
 4. Compile your C program with the `libft.a` library:
 
    ```bash
 	gcc myprogram.c -L. -lft
 
-Replace `myprogram.c` with your source code file.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Replace `myprogram.c` with your source code file.
