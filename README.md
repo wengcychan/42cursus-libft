@@ -75,7 +75,6 @@ To use the `libft` library in C projects, follow these steps:
    ```bash
    git clone https://github.com/wengcychan/42cursus-libft.git
 
-<br>
 
 2. Compile the library for Part 1 and Part 2:
 
@@ -86,14 +85,12 @@ To use the `libft` library in C projects, follow these steps:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Additionally, running `make bonus` will add the functions from the bonus part to the `libft.a` library.
 
-<br>
 
 3. In your C projects, include the header file `libft.h`:
 
 	```c
 	#include "libft.h"
 
-<br>
 
 4. Compile your C program with the `libft.a` library:
 
