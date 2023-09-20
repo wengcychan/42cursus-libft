@@ -7,7 +7,7 @@
 
 Libft is a project designed to create and utilize a custom C library known as `libft`.
 
-For more projects related to 42cursus, please visit the hive-42cursus repository.
+For more projects related to 42cursus, please visit the [hive-42cursus](https://github.com/wengcychan/hive-42cursus.git) repository.
 
 ## Introduction
 
